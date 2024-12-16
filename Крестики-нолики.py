@@ -16,7 +16,7 @@ class TicTacToe:
         self.default_tile_color = "#ADD8E6"
         self.x_color = "#007AFF"
         self.o_color = "#FF3B30"
-        self.menu_bg_color = "#4CAF50"
+        self.menu_bg_color = "#4CAF55"
 
         self.create_main_menu()
 
